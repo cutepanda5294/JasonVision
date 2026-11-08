@@ -63,9 +63,10 @@ https://vidsemar.pages.dev/terraluna3/206.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" group-title="TV Nasional" ch-number="10" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png",ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vidsemar.pages.dev/terraluna3/782.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://proxy-v.rctiplus.id/live/ios/antv/index.m3u8
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" group-title="TV Nasional" ch-number="11" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png",Nusantara TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
