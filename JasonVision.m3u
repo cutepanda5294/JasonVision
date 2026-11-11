@@ -174,14 +174,14 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w650265888.m3u8
 #EXTINF:-1 tvg-id="AjwaTV.id" group-title="TV Nasional" ch-number="27" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png",Ajwa TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://beetv.my.id/jabingan/vd.m3u8?ch=7464
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vidio123.mikrofast.web.id/vidio/7464/index.mpd
 
 #EXTINF:-1 tvg-id="GarudaTV.id" group-title="TV Nasional" ch-number="28" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://beetv.my.id/jabingan/vd.m3u8?ch=18162
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vidio123.mikrofast.web.id/vidio/18162/index.mpd
 
 #EXTINF:-1 tvg-id="JawaPosTV.id" group-title="TV Nasional" ch-number="29" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",Jawa Pos TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -217,14 +217,14 @@ https://vidsemar.pages.dev/terraluna3/8237.mpd
 #EXTINF:-1 tvg-id="UChannel.id" group-title="Religi" ch-number="34" tvg-logo="https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png",U-Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://beetv.my.id/jabingan/vd.m3u8?ch=6898
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vidio123.mikrofast.web.id/vidio/6898/index.mpd
 
 #EXTINF:-1 tvg-id="DaystarTV.id" group-title="Religi" ch-number="35" tvg-logo="https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png",Daystar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://beetv.my.id/jabingan/vd.m3u8?ch=18622
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vidio123.mikrofast.web.id/vidio/18622/index.mpd
 
 #EXTINF:-1 tvg-id="JTV.id" group-title="TV Nasional" ch-number="36" tvg-logo="https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
